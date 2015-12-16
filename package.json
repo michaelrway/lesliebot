@@ -1,0 +1,26 @@
+{
+  "name": "lesliebot",
+  "version": "1.0.0",
+  "description": "## To Run",
+  "main": "lesliebot.js",
+  "dependencies": {
+    "botkit": "0.0.4",
+    "cheerio": "^0.19.0",
+    "node-cache": "^3.0.0",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelrway/lesliebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelrway/lesliebot/issues"
+  },
+  "homepage": "https://github.com/michaelrway/lesliebot#readme"
+}
