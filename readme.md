@@ -9,7 +9,7 @@
 Get a token by adding a Slack bot integration for your team.
 
 ### Run node app
-The app needs the bot token as an `token` environment variable.
+The app needs the bot token as a `token` environment variable.
 ```token=YOUR_BOT_TOKEN node lesliebot```
 
 ### Talk to the bot
@@ -22,4 +22,4 @@ Invite Lesliebot to any channel you would like and start chatting
 
 
 ### Accepting pull requests
-### Twitter: @heymichaelway
+#### Twitter: @heymichaelway
